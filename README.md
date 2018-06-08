@@ -14,4 +14,9 @@
  ・H28 4EE INVERTER(モータードライバ)<br>
  
  ##コメント
+ 
  wiringOPをインストールして、gccでコンパイルして実行すれば使えます。<br>
+ 
+ ##関連リポジトリ
+ 
+ https://github.com/syouboumono/NITOC-Koryo-4LR-originalMD-SBDBT-to-Arduino/blob/master/README.md
