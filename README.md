@@ -19,4 +19,4 @@
  
  ##関連リポジトリ
  
- https://github.com/syouboumono/NITOC-Koryo-4LR-originalMD-SBDBT-to-Arduino/blob/master/README.md
+https://github.com/syouboumono/NITOC-Koryo-4LR-originalMD-SBDBT-to-Arduino
