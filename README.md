@@ -10,7 +10,7 @@
  
  ・ゲームパッド(F710)<br>
  ・Orange Piシリーズ<br>
- ・12V DC電源
+ ・12V DC電源<br>
  ・H28 4EE INVERTER(モータードライバ)<br>
  
  ##コメント
